@@ -1,6 +1,6 @@
 def replace_spaces(sentence, sentence2):
     pass #TODO:
-    new_sentence = sentence.replace (" ", sentence2)
+    new_sentence = sentence.replace (" ", "_")
     print(new_sentence)
     
 

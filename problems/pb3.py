@@ -1,7 +1,7 @@
 def youngest_student(students):
     pass # TODO:
 
-    youngest_age = float("-inf")
+    youngest_age = float("inf")
     youngest_student = None
     for name, age in students.items():
         if age < youngest_age:
