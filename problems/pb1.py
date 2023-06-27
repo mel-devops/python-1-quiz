@@ -1,6 +1,8 @@
-def replace_spaces():
+def replace_spaces(sentence, sentence2):
     pass #TODO:
-
+    new_sentence = sentence.replace (" ", sentence2)
+    print(new_sentence)
+    
 
 
 # sentence = "Test  This is a test   Testing "
